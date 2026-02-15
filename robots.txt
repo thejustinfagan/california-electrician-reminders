@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thejustinfagan.github.io/california-electrician-reminders/sitemap.xml
